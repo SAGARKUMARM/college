@@ -1,0 +1,32 @@
+#linking{
+    color: azure;
+    background-color: burlywood;
+}
+#number{
+    color: cyan;
+    background-color: darkgrey;
+}
+#lists{
+    color: darkseagreen;
+    background-color: darkviolet;
+}
+#hub{
+    color: rgb(43, 226, 67);
+    background-color: rgb(255, 0, 179);
+}
+#hubs{
+    color: chartreuse;
+    background-color: rgb(255, 220, 245);
+}
+#hubss{
+    color: cyan;
+    background-color: darkkhaki;
+}
+#hubsss{
+    color: deepskyblue;
+    background-color: greenyellow;
+}
+#hubssss{
+    color: greenyellow;
+    background-color: hotpink;
+}
