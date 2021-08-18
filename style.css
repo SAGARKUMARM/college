@@ -1,0 +1,23 @@
+#mmu{
+    color:rgb(255, 145, 0)
+} 
+#mmmu{
+    color: cyan;
+   
+}
+div{
+    color: deeppink;
+    
+}
+body{ 
+    color: aqua;
+    margin-top: 6px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background-color:brown
+    
+ 
+}  
+.bb{
+    color: blue;
+}
